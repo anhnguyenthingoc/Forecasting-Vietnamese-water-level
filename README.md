@@ -11,6 +11,8 @@ Data is used for paper: "Prediction of Water Level Using Time Series, Wavelet an
 
 Link: https://www.igi-global.com/chapter/prediction-of-water-level-using-time-series-wavelet-and-neural-network-approaches/289000
 
+Authors: Nguyen Quang Dat, Ngoc Anh Nguyen Thi, Vijender Kumar Solanki, Ngo Le An 
+
 Abstract: 
 
 
